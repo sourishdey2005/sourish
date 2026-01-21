@@ -1,0 +1,7 @@
+{
+  "name": "Sourish Dey | Portfolio",
+  "description": "A high-end, scroll-driven 3D personal portfolio for Cloud, AI/ML, and DevOps Engineer Sourish Dey, featuring real-time 3D portrait interaction and cinematic effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
